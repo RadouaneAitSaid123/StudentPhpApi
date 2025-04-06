@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projetws</string>
+    <string name="nom_label">Nom :</string>
+    <string name="prenom_label">Prenom :</string>
+    <string name="ville_label">Ville</string>
+    <string name="sexe_label">Sexe :</string>
+    <string name="homme_radio">homme</string>
+    <string name="femme_radio">femme</string>
+    <string name="add_btn">Add</string>
+</resources>

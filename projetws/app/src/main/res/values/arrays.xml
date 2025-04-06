@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="villes">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+        <item>Fès</item>
+        <item>Tanger</item>
+        <item>Agadir</item>
+        <item>Oujda</item>
+        <item>Meknès</item>
+        <item>Kenitra</item>
+        <item>El Jadida</item>
+        <item>Nador</item>
+        <item>Settat</item>
+        <item>Béni Mellal</item>
+        <item>Laâyoune</item>
+        <item>Essaouira</item>
+    </string-array>
+</resources>
